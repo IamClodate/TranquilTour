@@ -45,5 +45,9 @@
   "main": "index.js",
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "eslint": "^8.53.0",
+    "nodemon": "^3.0.1"
+  }
 }
