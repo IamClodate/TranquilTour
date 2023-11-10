@@ -15,6 +15,6 @@ res.json({
 };
 
 module.exports = {
-notFound,
+notFound, 
 errorHandler,
 };
