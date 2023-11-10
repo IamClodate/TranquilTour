@@ -70,11 +70,4 @@ module.exports = LogEntry;
   updated_at: defaultRequiredDate,
 
 
-
-  
-
-
-
-
-
 title: requiredString,
