@@ -1,3 +1,4 @@
+import Navbar from "./components/Navbar,js";
 import "./styles.css";
 
 export default function App() {
@@ -5,6 +6,7 @@ export default function App() {
     <div className="App">
       <h1> Heloo</h1>
       <h2>hOW ARE YOU</h2>
+
     </div>
   );
 }
